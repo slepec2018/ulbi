@@ -3,13 +3,15 @@
   "Перевод": "Translation",
   "Язык": "English",
   "Страница не найдена": "Page not found",
-  "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
-  "Обновить страницу": "Обновить страницу",
+  "Произошла непредвиденная ошибка": "An unexpected error occurred",
+  "Обновить страницу": "Refresh page",
   "Сгенерировать ошибку": "Generate error",
   "Короткий язык": "En",
   "Главная": "Main",
   "О сайте": "About us",
   "Войти": "Login",
   "increment": "increment",
-  "decrement": "decrement"
+  "decrement": "decrement",
+  "Введите username": "Enter username",
+  "Введите пароль": "Enter password"
 }
